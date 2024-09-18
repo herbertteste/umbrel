@@ -17,7 +17,7 @@
     "bootstrap-vue": "^2.11.0",
     "cookie-parser": "^1.4.6",
     "core-js": "^3.4.4",
-    "express": "^4.17.3",
+    "express": "^4.20.0",
     "http-status-codes": "^2.2.0",
     "vue": "^2.6.10",
     "vue-router": "^3.1.3",
